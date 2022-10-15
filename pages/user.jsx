@@ -13,7 +13,7 @@ function User({ user }) {
 
             <div>
               <img
-                src="https://gateway.ipfs.io/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD"
+                src="https://crustipfs.xyz/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD"
                 alt="junjie"
               />
             </div>
